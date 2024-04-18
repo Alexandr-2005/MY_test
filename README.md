@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Моя базовая страница</title>
-</head>
 <body>
     <header>
         <h1>Добро пожаловать на мою страницу!</h1>
